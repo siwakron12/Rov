@@ -38,8 +38,12 @@ export default function Home() {
     </div>
     <div className='w-full lg:w-3/4 p-2 mx-auto'>
       <section className='my-4'>
-        <h1 className='font-bold text-3xl text-center roboto'>รายชื่อทีมทั้งหมด</h1>
+      <h1 className='font-bold text-3xl text-center  text-blue-700'>ECP E-SPORT ROV Tournament ชิงเงินรางวัลรวม5000บาท</h1>
+      <h1 className='font-bold text-xl text-center text-blue-700 '>AIS 5G รวมกับ ห้องเรียนพิเศษECP นารีนุกูล</h1>
+        <h1 className='font-bold text-3xl text-center roboto mt-8'>รายชื่อทีมทั้งหมด</h1>
+       
         <h1 className='text-2xl font-bold mt-8'>ระดับมัธยมศึกษาตอนปลาย</h1>
+      
         <div className='shadow-blue-300 my-4 grid grid-cols-3 md:grid-cols-5  items-center border-2 border-blue-300 shadow-lg p-4 max-w-full place-items-center'>
           <p>วันเวลาที่สมัคร</p>
           <p>ชื่อทีม</p>
