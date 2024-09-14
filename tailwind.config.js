@@ -11,6 +11,9 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        prompt: ['var(--font-prompt)', 'sans-serif'],
+      },
     },
   },
   plugins: [],
